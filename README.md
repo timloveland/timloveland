@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @timloveland
-- 👀 I’m interested in software development with C++, web development, and
-     security specializations such as networking and penetration testing.
+- 👀 I’m interested in software development with C++, web development, and cyber security.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web development projects that relate to
      music or the Bible, as well as projects that strengthen the security of
