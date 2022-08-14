@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timloveland
 - 👀 I’m interested in software development with C++, web development, and cyber security.
-- 💞️ I’m looking into web development on Udemy
+- 💞️ I’m looking into web development
 - 📫 How to reach me ...
      email: timloveland@yahoo.com or timmystfl@yahoo.com
 
