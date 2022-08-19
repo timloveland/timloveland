@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development with C++, web development, and cyber security.
 - 💞️ I’m looking into web development
 - 📫 How to reach me ...
-     email: timloveland@yahoo.com or timmystfl@yahoo.com
+     email: timloveland@yahoo.com or (772)-285-7454
 
 <!---
 timloveland/timloveland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
