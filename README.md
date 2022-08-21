@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timloveland
-- 👀 I’m interested in software development with C++, web development, and cyber security.
-- 💞️ I’m looking into web development
+- 👀 I’m interested in front end web development.
+- 💞️ I’m looking into the Odin Project and courses on Udemy.
 - 📫 How to reach me ...
      email: timloveland@yahoo.com or (772)-285-7454
 
