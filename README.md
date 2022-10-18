@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timloveland
-- 👀 I’m interested in front end development (and maybe backend in the future).
+- 👀 I’m interested in cybersecurity and coding in Python.
 - 💞️ I’m looking into FreeCodeCamp and courses on Udemy.
 - 📫 How to reach me ...
      email: timloveland@yahoo.com or (772)-285-7454
